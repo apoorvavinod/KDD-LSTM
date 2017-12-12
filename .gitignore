@@ -1,3 +1,5 @@
 /Temp
 /KDD.preProcessed.csv
 /kddcup.data.corrected.csv
+.ipynb_checkpoints
+.DS_Store
